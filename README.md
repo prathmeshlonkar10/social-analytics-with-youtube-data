@@ -15,10 +15,21 @@ There are several ways to collect YouTube data, including the official "YouTube 
 
 ## 🧪 Components
 1. Data Cleaning & Preprocessing
+   - Redundant columns
+   - Missing values
+   - Datetime conversions
 2. Feature Engineering
-3. Exploratory Data Analysis (EDA)
-4. Predictive Modeling
-5. A/B Testing 
+   - 13 new columns engineered
+5. Exploratory Data Analysis (EDA)
+   - Trends & patterns
+   - Data visualization
+7. Predictive Modeling
+   - Random Forest
+   - Feature importance
+9. A/B Testing
+   - Weekday vs Weekend 
+   - Morning vs Evening
+   - Engagement performance 
 
 ## 📈 Key Visualiations
 
@@ -30,3 +41,18 @@ There are several ways to collect YouTube data, including the official "YouTube 
 ![Screenshot 2025-06-08 181618](https://github.com/user-attachments/assets/7b9eb9c7-28d9-468e-b423-0aed9c8f26ea)
 ![Screenshot 2025-06-08 181629](https://github.com/user-attachments/assets/4d407f8f-b31d-4eaf-98f4-72145c970889)
 
+## 🧠 Key Findings
+- Evening posts may get less reach on average.
+- Though fewer views, evening viewers are more engaged (more likes).
+- More people are watching on weekends, likely due to free time.
+- Weekday audience is more interactive in terms of likes & comments.
+
+## ✅ Few Recommendations for Creators
+- Post videos in the evening (5–9 PM) if your goal is engagement quality (likes/comments per view).
+- Morning may be better if reach (total views) is the primary goal.
+- Target weekdays (Mon–Fri) for high-engagement posts.
+
+## 🚀 Potential Use Cases
+- Optimize Posting Time: Use A/B testing results to schedule posts for maximum engagement (e.g., post in the morning for higher views and likes).
+- Competitor Benchmarking: Track performance of competitor channels and replicate successful content strategies.
+- Ad Strategy Alignment: Use category popularity trends and engagement metrics to guide ad placement or influencer partnerships.
